@@ -1,4 +1,4 @@
 streamlit
 sympy
 pip
-streamlit_option_menu==0.3.6
+streamlit-option-menu==0.3.6
